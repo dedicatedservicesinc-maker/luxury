@@ -131,7 +131,8 @@ nav a.active {
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 1px;
-  font-size: 15px;
+  /* font-size: 15px; */
+  font-size: 30px; 
   color: #f5ecd7;
   border: 1px solid #8fae4d;
   transition: 0.3s;
