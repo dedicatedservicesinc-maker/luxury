@@ -80,6 +80,17 @@ nav a.active {
   text-align: center;
   padding: 0 20px;
 }
+.subpages {
+  min-height: 100vh;
+  background:
+    linear-gradient(rgba(3, 10, 25, 0.35), rgba(3, 10, 25, 0.72)),
+    
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 0 20px;
+}
 
 .hero-content {
   max-width: 1100px;
