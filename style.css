@@ -85,7 +85,7 @@ nav a.active {
   background:
     linear-gradient(rgba(3, 10, 25, 0.35), rgba(3, 10, 25, 0.72)),
     
-  display: flex;
+  
   justify-content: center;
   align-items: center;
   text-align: center;
