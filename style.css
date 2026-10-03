@@ -107,6 +107,7 @@ nav a.active {
   line-height: 1.05;
   font-weight: normal;
   margin-bottom: 22px;
+  text-align: center;
 }
 
 .hero-divider {
