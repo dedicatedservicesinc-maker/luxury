@@ -110,6 +110,14 @@ nav a.active {
   text-align: center;
 }
 
+.features p {
+  font-size: 1.15rem;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 36px;
+  text-align: center;
+}
+
 .hero-divider {
   width: 320px;
   height: 1px;
