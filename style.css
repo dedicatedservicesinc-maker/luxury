@@ -239,9 +239,9 @@ nav a.active {
   nav {
     display: none;
     width: 100%;
-    flex-direction: row;
+    flex-direction: column;
     margin-top: 20px;
-    text-align: center;
+    text-align: right;
   }
 
   nav.active {
