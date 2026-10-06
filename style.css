@@ -241,7 +241,7 @@ nav a.active {
     width: 100%;
     flex-direction: row;
     margin-top: 0px;
-    text-align: right;
+    text-align: center;
   }
 
   nav.active {
@@ -249,7 +249,7 @@ nav a.active {
   }
 
   nav a {
-    margin: 12px 0;
+    margin: 12px 5px;
   }
 
   .hero h1 {
