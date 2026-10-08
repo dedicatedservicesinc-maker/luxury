@@ -239,12 +239,14 @@ nav a.active {
   nav {
     display: none;
     width: 75%;
-    flex-direction: row;
-    flex-wrap: wrap;
+    flex-direction: column;
+    
     margin-top: 0px;
     text-align: center;
     background: linear-gradient(90deg, rgba(31, 53, 20, 0.96), rgba(14, 27, 15, 0.96));
   }
+
+  
 
   nav.active {
     display: flex;
